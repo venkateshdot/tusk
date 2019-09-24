@@ -4,5 +4,8 @@ pista
 veg
 Non veg also
 
+beans
+pizza
+
 
 Thanks
