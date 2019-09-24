@@ -4,8 +4,13 @@ pista
 veg
 Non veg also
 
+beans
+pizza
+
 
 final copy
 
 
 Thanks
+
+Done my changes
